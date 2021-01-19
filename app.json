@@ -1,0 +1,5 @@
+{
+    "name": "lwc-playground",
+    "descriptions": "A lwc playground on Heroku",
+    "repository": "https://github.com/julianduque/heroku-lwc-playground"
+}
